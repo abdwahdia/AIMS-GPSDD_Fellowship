@@ -2,7 +2,7 @@
 
 ### Installation
 
-Ce projet nécessite **Python** et les bibliothèques Python suivantes installées :
+Ce projet nécessite le langage **Python** et les bibliothèques Python suivantes installées :
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
