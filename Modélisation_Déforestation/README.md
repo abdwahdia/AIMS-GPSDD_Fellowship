@@ -51,9 +51,9 @@ Sur ce projet on a principalement utilisé deux jeux de données `Urbanization_D
 7.  Nombre de ménages ruraux
 8.  Nombre de ménages urbains 
 9.  Taille moyenne des ménages 
-10.  Taille moyenne des ménages ruraux 
-11.  Taille moyenne des ménages urbains 
-12.  Superficie Perdue 
+10. Taille moyenne des ménages ruraux 
+11. Taille moyenne des ménages urbains 
+12. Superficie Perdue 
 
 **Variable Cible**
 
