@@ -9,7 +9,7 @@ Ce projet nécessite **Python** et les bibliothèques Python suivantes installé
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-Il faut également avoir installé un logiciel permettant de faire fonctionner et d'exécuter un [Jupyter Notebook] (http://jupyter.org/install.html).
+Il faut également avoir installé un logiciel permettant de faire fonctionner et d'exécuter un [Jupyter Notebook](http://jupyter.org/install.html).
 
 Si n'est pas installé Python, il est fortement recommandé d'installer la distribution [Anaconda](https://www.anaconda.com/download/) de Python, qui contient déjà les paquets ci-dessus et d'autres encore. 
 
