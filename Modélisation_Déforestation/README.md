@@ -1,4 +1,4 @@
-# Project: Modélisation de la menace de déforestation en utilisant des données relatives à l'urbanisation, l'agriculture et la foresterie. 
+## Project: Modélisation de la menace de déforestation en utilisant des données relatives à l'urbanisation, l'agriculture et la foresterie. 
 
 ### Installation
 
@@ -56,9 +56,10 @@ Sur ce projet on a principalement utilisé deux jeux de données `Urbanization_D
 12.  Superficie Perdue 
 
 **Variable Cible**
+
 13. risque déforestation
 
-Pour la modélisation, seules les variables les plus correlées avec la variable ont été utilisées. Ces variables ont les suivantes :
+Pour la modélisation, seules les variables les plus correlées avec la variable ont été utilisées. Ces variables sont les suivantes :
 1. Population urbaine
 2. Taux d'urbanisation
 3. Nombre de ménages urbains 
