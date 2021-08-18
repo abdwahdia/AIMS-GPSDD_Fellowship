@@ -1,2 +1,2 @@
 # AIMS-GPSDD_Fellowship
-Modelling the risk of deforestation 
+Modélisation de la menace de déforestation 
