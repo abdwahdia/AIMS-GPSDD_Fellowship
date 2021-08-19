@@ -1,5 +1,3 @@
-# AIMS-GPSDD_Fellowship
-Modélisation de la menace de déforestation 
 
 ## Project: Modélisation de la menace de déforestation en utilisant des données relatives à l'urbanisation, l'agriculture et la foresterie. 
 
