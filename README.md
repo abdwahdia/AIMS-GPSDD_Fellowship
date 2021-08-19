@@ -1,5 +1,5 @@
 
-## Project: Modélisation de la menace de déforestation en utilisant des données relatives à l'urbanisation, l'agriculture et la foresterie. 
+## Project: Modélisation de la menace de déforestation en utilisant des données relatives au developpement de l'agriculture et de l'urbanisation 
 
 ### Installation
 
