@@ -17,7 +17,7 @@ Si n'est pas installé Python, il est fortement recommandé d'installer la distr
 
 ### Code
 
-Il y'a trois fichiers code, un premier ficher nommé `Exploitation_données_Agriculture_Urbanisation.ipynb` sur lequel on fait une exploitation des données sur l'agriculture et l'urbanisation, un deuxième fichier nommé `Exploitation_des_données_Forestières.ipynb` sur lequel on a realisé une exploitation des données forestières et enfin un troisième fichier `Prédire_Menace_Déforestation.ipynb` sur lequel on a utilisé le jeu de données `Data_Urb_Agr_For.csv` pour mettre en place le modèle permettant de prédiré la menace de la déforestation.
+Il y'a trois fichiers code, un premier ficher nommé `Exploitation_données_Agriculture_Urbanisation.ipynb` sur lequel on fait une exploitation des données sur l'agriculture et l'urbanisation, un deuxième fichier nommé `Exploitation_des_données_Forestières.ipynb` sur lequel on a realisé une exploitation des données forestières et enfin un troisième fichier `Prédire_Menace_Déforestation.ipynb` sur lequel on a utilisé le jeu de données `Data_Urb_Agr_For.csv` pour mettre en place le modèle permettant de prédire la menace de la déforestation.
 
 
 ### Exécution
