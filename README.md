@@ -40,7 +40,7 @@ Cela ouvrira le logiciel Jupyter Notebook et le fichier du projet dans le naviga
 
 ### Données 
 
-Sur ce projet on a utilisé trois jeu de données `agriculture_data.csv`, `Urbanization_Data.csv` et `forest_data.csv`. Les deux derniers sont tirés respectivement des sites [senegal open data for africa](https://senegal.opendataforafrica.org/) et [EARTH MAP](https://earthmap.org/). Le jeu de données qui a servi à mettre en place le modèle est issu des jeux de données cités ci-avant. Il est composé de 250 observations caractérisées par 4 variables. 
+Sur ce projet on a utilisé trois jeu de données `agriculture_data.csv`, `Urbanization_Data.csv` et `forest_data.csv`. Les deux derniers jeu de données sont tirés respectivement des sites [senegal open data for africa](https://senegal.opendataforafrica.org/) et [EARTH MAP](https://earthmap.org/). Le jeu de données qui a servi à mettre en place le modèle est issu des jeux de données cités ci-avant. Il est composé de 250 observations caractérisées par 4 variables. 
 
 **Variables**
 1.  `TU`: Taux d'urbanisation
